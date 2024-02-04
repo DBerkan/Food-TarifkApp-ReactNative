@@ -7,6 +7,8 @@ When users click on any meal in the list, they are directed to the Details Scree
 Overall, this app provides users with a convenient platform for exploring food categories, finding new recipes, and accessing additional details and cooking videos for each recipe.
 
 
+https://github.com/DBerkan/Food-TarifkApp-ReactNative/assets/75339046/d5f6bb41-ef4f-42a4-9674-c1f42adfd616
+
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2024-02-05 at 01 08 58](https://github.com/DBerkan/Food-TarifkApp-ReactNative/assets/75339046/0fb96ffe-421d-49f2-a456-e6d7fa029002)
 
@@ -14,5 +16,4 @@ Overall, this app provides users with a convenient platform for exploring food c
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2024-02-05 at 01 09 21](https://github.com/DBerkan/Food-TarifkApp-ReactNative/assets/75339046/b05d239f-6e7d-4ee6-9bb6-c2d0cb543256)
 
-https://github.com/DBerkan/Food-TarifkApp-ReactNative/assets/75339046/d5f6bb41-ef4f-42a4-9674-c1f42adfd616
 
